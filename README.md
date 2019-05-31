@@ -5,4 +5,5 @@ This is a repository for my final year project "A review on Generative Adversari
 This thesis is presented in June 2019.
 
 Author: Pablo Javier de Paz Carbajo (https://www.linkedin.com/in/pablodepaz/)
+
 Professor: Pablo Martinez Olmos (http://www.tsc.uc3m.es/profile.php?uid=olmos)
