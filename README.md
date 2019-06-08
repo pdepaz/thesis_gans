@@ -1,6 +1,6 @@
-# Repository for thesis "A review on Generative Adversarial Networks for unsupervised Machine Learning"
+# Repository for thesis _"A review on Generative Adversarial Networks for unsupervised Machine Learning"_
 
-This is a repository for my final year project <span style="color:blue;">"A review on Generative Adversarial Networks for unsupervised Machine Learning"</span> to finish Degree of Telecommunications Technology Engineering in Universidad Carlos III de Madrid. 
+This is a repository for my final year project "A review on Generative Adversarial Networks for unsupervised Machine Learning" to finish Degree of Telecommunications Technology Engineering in Universidad Carlos III de Madrid. 
 
 This thesis was delivered June 17th, 2019 and presented July 3rd, 2019.
 
