@@ -24,7 +24,7 @@ The aim
 
 A Generative Adversarial Network (GAN)
 
-![alt text](https://efaoretana.org/wp-content/uploads/2018/05/daw.png)
+![GAN](https://www.kdnuggets.com/wp-content/uploads/generative-adversarial-network.png)
 
 
 
