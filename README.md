@@ -24,7 +24,7 @@ The aim
 
 A Generative Adversarial Network (GAN)
 
-<img src="https://www.kdnuggets.com/wp-content/uploads/generative-adversarial-network.png" alt="GAN" width="400"/>
+<img src="https://www.kdnuggets.com/wp-content/uploads/generative-adversarial-network.png" alt="GAN" width="600"/>
 
 
 
