@@ -10,19 +10,25 @@ This thesis was delivered June 17th, 2019 and presented July 3rd, 2019.
 ## Thesis aim 
 
 The purpose of this thesis is to learn about Deep Learning by providing a in-depth analysis of Generative Adversarial Networks (GANs). 
+
 Some different types of GANs will be trained and evaluated, starting with a very simple “vanilla” GAN and then, using a more complex Deep Convolutional GAN (DCGAN).
 
 
 ## Abstract
 
-The aim
+TO-DO
 
 
 
 ## What is a GAN?
 
-A Generative Adversarial Network (GAN)
+Generative Adversarial Networks (GANs) were introduced by [Ian Goodfellow](http://www.iangoodfellow.com/) in 2014 and quickly became one of the most popular generative models. 
 
+It comprises of two ANN that fight one against the other (that is the reason of its name) resulting in a generation of new artificial data that follows the probability distribution of real data.
+
+The original paper can be found [here](https://arxiv.org/abs/1406.2661/).
+
+This is the architecture of a GAN:
 <img src="https://www.kdnuggets.com/wp-content/uploads/generative-adversarial-network.png" alt="GAN" width="600"/>
 
 
