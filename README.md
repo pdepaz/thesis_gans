@@ -4,6 +4,7 @@ This is a repository for my final year project "A review on Generative Adversari
 
 This thesis was delivered June 17th, 2019 and presented July 3rd, 2019.
 
+
 <img src="http://ocw.uc3m.es/periodismo/empresa-informativa/imagenes/logo_uc3m.jpg" alt="uc3m logo" width="400"/>
 
 
