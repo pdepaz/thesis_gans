@@ -16,7 +16,16 @@ Some different types of GANs will be trained and evaluated, starting with a very
 
 ## Abstract
 
-TO-DO
+This thesis is conceived to provide an in-depth review of Generative Adversarial Networks (GANs) for unsupervised Machine Learning by introducing the basic concepts of Deep Learning that support a generative model as well as carefully explaining what and how a GAN works. 
+
+The approach followed during this year-long work consists in learning and internalizing the technical concepts of Deep Learning and, particularly, GANs. After that, an analysis of the most used techniques took place. For the experimentation, TensorFlow over Python is used to obtain experimental results for different types of datasets (MNIST, Fashion-MNIST and CIFAR–10).
+
+GANs are outstandingly interesting in Deep Learning because of its endless capabilities and huge potential in many fields such as the health industry, the agriculture, banking and insurance, transportation, security, education… Its capabilities to generate new data that, mimics the input learning data given to it, are impressive and never seen before. This method is very nice approach for Data Science when dealing with a huge amount of (unlabeled) data, like most of the companies, institutions and governments do today.
+
+The results obtained and presented in this document provide a clear evidence that the adversarial networks used in my experiments are pretty powerful as they are creating coherent images from random noise. The evaluation datasets correspond to the ones typically used in ML and the results obtained meet the technical specifications of these networks to greater or lesser extent depending on the computational power available and the required one. 
+
+Overall, you will find out the incredible importance of Generative Adversarial Networks in today’s world and the almost infinite number of processes and activities that they can be applied to.
+
 
 
 
