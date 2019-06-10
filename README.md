@@ -39,7 +39,10 @@ The original paper can be found [here](https://arxiv.org/abs/1406.2661/).
 
 This is the architecture of a GAN:
 
-<img src="https://www.kdnuggets.com/wp-content/uploads/generative-adversarial-network.png" alt="GAN" width="600"/>
+<p align="center">
+  <img src="https://www.kdnuggets.com/wp-content/uploads/generative-adversarial-network.png" alt="GAN" width="600"/>
+</p>
+
 
 
 
